@@ -4,13 +4,13 @@
 
 Avem industriile:
 
-	- ```beauty```
-	- ```fashion```
-	- ```gadgets```
-	- ```games```
-	- ```household```
-	- ```food```
-	- ```sports```
+	- beauty
+	- fashion
+	- gadgets
+	- games
+	- household
+	- food
+	- sports
 
 Și un cuvant: ```soap```
 
