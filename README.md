@@ -40,3 +40,8 @@ beauty -> Skin care
 fashion -> Skin care
 
 household -> Cleaning
+
+
+### TO DO 
+
+- create hierarchical database model
